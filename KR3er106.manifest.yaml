@@ -1,0 +1,179 @@
+canonical_identifier: bkk:krp/KR3er106/v1
+canonical_location: https://kanripo.org/bkk/KR3er106/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 村居救急方
+  identifiers:
+    krp: KR3er106
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er106.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3er106_001.yaml, hash: 'sha256:81f777989d893391d36360e5d142698f1c64ce9e8adeb0c65715c391541763be'}
+  - {seq: 0, filename: KR3er106_000.yaml, hash: 'sha256:01ab21b8d8bada3265f788d4979ef356a8692dd415c950384a82e84b8d826602'}
+  - {seq: 3, filename: KR3er106_003.yaml, hash: 'sha256:3ec0b1d08d9908af3b21d4e24eddb1757b8357f273608fbc9591ed2cba730d96'}
+  - {seq: 4, filename: KR3er106_004.yaml, hash: 'sha256:f038143236365ed957c4e7eb9f7f12ae194176b038a9d046acf437ce2d76ad0a'}
+  - {seq: 5, filename: KR3er106_005.yaml, hash: 'sha256:8691ed9701273dd8f09ce1694e88f065161f8f8e56f15803defeec4078f2f778'}
+  - {seq: 6, filename: KR3er106_006.yaml, hash: 'sha256:28b3838ab959bdd2ef81fb19477141c402e176d517f4c5d53910b0699d1206d5'}
+  - {seq: 7, filename: KR3er106_007.yaml, hash: 'sha256:0abb05474fed6b665c5c0c2ee7b988917e476f2a39a76d531b637b1160abb150'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3er106_001.markers.yaml, hash: 'sha256:5c2eb81e6b514750811c7d05f298cfb6af3fc44fa5bd78143bcee548cbe6ee8f'}
+  - {seq: 0, role: markers, filename: assets/KR3er106_000.markers.yaml, hash: 'sha256:cfede85620ae579f50a9be44a2da185206c8a35d960f15eeb7cfb297ea0065e3'}
+  - {seq: 3, role: markers, filename: assets/KR3er106_003.markers.yaml, hash: 'sha256:7c0e3d0270c6d06859ed0b05866c60e8a00dd63fd49c661edbaa17b987c54596'}
+  - {seq: 4, role: markers, filename: assets/KR3er106_004.markers.yaml, hash: 'sha256:ff741a1d831e57a38a49bc4449c58a77003ae9b24b99e0bfa9bf449b9632d234'}
+  - {seq: 5, role: markers, filename: assets/KR3er106_005.markers.yaml, hash: 'sha256:93a7b1c9fcf1c69ddf6e4aebcd517e3e102972d060eb0002a6dfab2d0b45055e'}
+  - {seq: 6, role: markers, filename: assets/KR3er106_006.markers.yaml, hash: 'sha256:87c5e9ce516eb8d0563f4f47e9ce552c5a049b216826026ce63ebe55d3433c94'}
+  - {seq: 7, role: markers, filename: assets/KR3er106_007.markers.yaml, hash: 'sha256:2b84e8e191be2a23fc3aa5271190ac38e18ca820fe1d436baf622a33c96f610c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3er106_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 1263
+  label: 村居救急方卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3er106_jc_001-d2d2
+    span:
+    - body
+    - 7
+    - 1256
+  label: 外感門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er106_jc_001-d2d3
+    span:
+    - body
+    - 1256
+    - 1263
+  label: 村居救急方卷二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er106_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 1100
+  label: 內傷門
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3er106_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 6542
+  label: 村居救急方卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3er106_jc_003-d4d2
+    span:
+    - body
+    - 7
+    - 6542
+  label: 雜症門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er106_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 2090
+  label: 村居救急方卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3er106_jc_004-d5d2
+    span:
+    - body
+    - 7
+    - 2090
+  label: 婦人科
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er106_jc_005-d6.h1s1
+    span:
+    - body
+    - 0
+    - 1790
+  label: 村居急救卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3er106_jc_005-d6d2
+    span:
+    - body
+    - 6
+    - 1790
+  label: 幼科
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er106_jc_006-d7.h1s1
+    span:
+    - body
+    - 0
+    - 8037
+  label: 村居救急方卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3er106_jc_006-d7d2
+    span:
+    - body
+    - 7
+    - 8037
+  label: 外科症
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3er106_jc_007-d8.h1s1
+    span:
+    - body
+    - 0
+    - 1796
+  label: 村居救急方卷七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3er106_jc_007-d8d2
+    span:
+    - body
+    - 7
+    - 1796
+  label: 五絕
+  type: section
+  level: 2
+hash: sha256:0914b7fdd4515475fa5b3edf3f2444b834a70c8f55bc5853f636810d4a97f45f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
