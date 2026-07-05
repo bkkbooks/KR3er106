@@ -58,7 +58,6 @@ markers:
   - {type: xml-element, offset: 298, content: '', id: KR3er106_jc_000-d3p16, name: p, role: open, attrs: {'xml:id': KR3er106_jc_000-d3p16}}
   - {type: 'tls:seg', offset: 298, content: '', id: KR3er106_jc_000-d3.p16s1}
   - {type: 'tls:seg', offset: 300, content: '', id: KR3er106_jc_000-d3.p16s2}
-  - {type: substitution, offset: 304, original: 廿, replacement: 草, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3861}}
   - {type: 'tls:seg', offset: 310, content: '', id: KR3er106_jc_000-d3.p16s3}
   - {type: 'tls:seg', offset: 315, content: '', id: KR3er106_jc_000-d3.p16s4}
   - {type: punctuation, offset: 318, content: (, id: KR3er106_jc_000-bkkpn7}
@@ -188,9 +187,8 @@ markers:
   - {type: xml-element, offset: 997, content: '', id: KR3er106_jc_000-d3p46_end, name: p, role: close, attrs: {'xml:id': KR3er106_jc_000-d3p46}}
   - {type: xml-element, offset: 997, content: '', id: KR3er106_jc_000-d3p48, name: p, role: open, attrs: {'xml:id': KR3er106_jc_000-d3p48}}
   - {type: 'tls:seg', offset: 997, content: '', id: KR3er106_jc_000-d3.p48s1}
-  - {type: substitution, offset: 998, original: 屍, replacement: 尸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0018}}
   - {type: 'tls:seg', offset: 1001, content: '', id: KR3er106_jc_000-d3.p48s2}
   - {type: 'tls:seg', offset: 1080, content: '', id: KR3er106_jc_000-d3.p48s3}
   - {type: xml-element, offset: 1100, content: '', id: KR3er106_jc_000-d3p48_end, name: p, role: close, attrs: {'xml:id': KR3er106_jc_000-d3p48}}
   back: []
-hash: sha256:cfede85620ae579f50a9be44a2da185206c8a35d960f15eeb7cfb297ea0065e3
+hash: sha256:4db698e60c8a74d22e0c686e8f60517214a9c0597c4d4b14140c92b3d2c9e649
