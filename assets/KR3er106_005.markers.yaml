@@ -46,9 +46,11 @@ markers:
   - {type: 'tls:seg', offset: 280, content: '', id: KR3er106_jc_005-d6.d2.p18s1}
   - {type: 'tls:seg', offset: 284, content: '', id: KR3er106_jc_005-d6.d2.p18s2}
   - {type: punctuation, offset: 286, content: (, id: KR3er106_jc_005-bkkpn3}
+  - {type: voice, offset: 286, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 288, content: ), id: KR3er106_jc_005-bkkpn4}
   - {type: 'tls:seg', offset: 288, content: '', id: KR3er106_jc_005-d6.d2.p18s3}
   - {type: punctuation, offset: 290, content: (, id: KR3er106_jc_005-bkkpn5}
+  - {type: voice, offset: 290, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 292, content: ), id: KR3er106_jc_005-bkkpn6}
   - {type: 'tls:seg', offset: 292, content: '', id: KR3er106_jc_005-d6.d2.p18s4}
   - {type: substitution, offset: 293, original: 姜, replacement: 薑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16998}}
@@ -258,4 +260,4 @@ markers:
   - {type: substitution, offset: 1724, original: 邕, replacement: 雍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20414}}
   - {type: xml-element, offset: 1790, content: '', id: KR3er106_jc_005-d6.d2p92_end, name: p, role: close, attrs: {'xml:id': KR3er106_jc_005-d6.d2p92}}
   back: []
-hash: sha256:1f657f4d3ff07f47ce9bfd3fa129a493a8fd411fe769e4864b6c29fb16f57396
+hash: sha256:3cc87907f3ed9480c5effa31ed85a977dc10f0e52155fc8401944e22222bdffb
